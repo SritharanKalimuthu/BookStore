@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: linear-gradient(90deg,#7c6434bb,#2e3e50);
+    font-family: "DM Serif Text", serif;
+    color: #ffe5c2;
+}
+
+.bg-img{
+    position: absolute;
+    filter: blur(10px);
+    opacity: 40%;
+    z-index: -1;
+}
