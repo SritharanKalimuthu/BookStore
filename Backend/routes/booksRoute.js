@@ -68,10 +68,10 @@ router.put('/:id', async (request, response) => {
       !request.body.title ||
       !request.body.author ||
       !request.body.publishYear||
-      !request.body,description,
+      !request.body,description
     ) {
       return response.status(400).send({
-        message: 'Send all required fields: title, author, publishYear,description',
+        message: 'Send all required fields: title, author, publishYear,  description',
       });
     }
 

@@ -41,9 +41,9 @@ The Bookstore MERN Application is a full-stack web application designed to manag
 
    npm run dev
 
-5. Again Navigate to the project Backend directory:
+5. Navigate to the project Backend directory:
 
-   cd BookStore/Backend
+   cd ../BookStore/Backend
 
 6. Install dependencies:
 
