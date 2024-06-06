@@ -27,11 +27,11 @@ The Bookstore MERN Application is a full-stack web application designed to manag
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/bookstore-mern.git
+   git clone https://github.com/SritharanKalimuthu/BookStore.git
 
 2. Navigate to the project directory:
 
-   cd CRUD-Book_Store
+   cd BookStore/Frontend
 
 3. Install dependencies:
 
@@ -41,7 +41,19 @@ The Bookstore MERN Application is a full-stack web application designed to manag
 
    npm run dev
 
-5. Visit http://localhost:port in your browser to view the application.
+5. Again Navigate to the project Backend directory:
+
+   cd BookStore/Backend
+
+6. Install dependencies:
+
+   npm install
+
+7. Start the development server:
+
+   npm start
+
+8. Visit http://localhost:port in your browser to view the application.
 
 ## Usage
 
